@@ -49,6 +49,8 @@ int main()
         }
     }
     std::cout << "The largest number is " << maximum << " and the smallest is " << minimum << std::endl;
+
+    std::cin;
 }
 
 
