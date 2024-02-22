@@ -127,7 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Enemies.cpp" />
+    <ClCompile Include="Inventory.cpp" />
+    <ClCompile Include="Items.cpp" />
+    <ClCompile Include="Players.cpp" />
+    <ClCompile Include="Weapons.cpp" />
     <ClCompile Include="Yet_Another_Basic_Dungeon_Crawler.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Enemies.h" />
+    <ClInclude Include="Inventory.h" />
+    <ClInclude Include="Items.h" />
+    <ClInclude Include="Players.h" />
+    <ClInclude Include="Weapons.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
