@@ -1,25 +1,3 @@
-
-void progressRoom() {
-    int roomChoice = rand() % 5;
-    switch (roomChoice) {
-    case 1:
-        cout << "You found nothing in the room" << endl;
-        break;
-    case 2:
-        //find item
-        //randomly select item from list of items for player to pick up
-        break;
-    case 3:
-        //find weapon
-        //randomly select item from list of weapons for player to pick up
-        break;
-    case 4:
-        //fight enemy
-        //randomly select enemy to fight
-        break;
-    }
-}
-
 #include <random>
 #include <list>
 #include <iostream>
@@ -29,11 +7,28 @@ void progressRoom() {
 #include "Inventory.h"
 #include "Players.h"
 #include "Items.h"
+#include "Rooms.h"
+#include "Dungeon.h"
+//Will add a list manager that holds lists of all items, enemies, and weapons and can output them
 using namespace std;
+
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    Players player;
+    Enemies enemy(1, 1, "dog");
+    Weapons weapon(1, 1, "Sword");
+    Inventory backpack;
+    Items item("bread");
+    //The for loop for i infinately repeats, breaking the program
+    //Dungeon dungeon;
+    Rooms room(6, 6);
+    backpack.Pickup(item);
+    backpack.Display();
+    cout << sizeof(player) << endl << sizeof(enemy) << endl << sizeof(weapon) << endl << sizeof(backpack) << endl << sizeof(item)
+        << endl << sizeof(room) << endl;
+    cout << &player << endl << &enemy << endl << &weapon << endl << &backpack << endl << &item << endl << &room;
+
 }
 
 

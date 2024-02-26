@@ -2,6 +2,8 @@
 #include <string>
 #include <iostream>
 using namespace std;
+
+//Changes health and gives output depending on if the player was healed or hurt
 void Players::ChangeHealth(int value) {
     health += value;
     if (value < 0) {
