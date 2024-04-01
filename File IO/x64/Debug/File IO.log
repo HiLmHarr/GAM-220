@@ -1,3 +1,117 @@
 ﻿  File IO.cpp
-C:\Users\lasyo\OneDrive\Desktop\Repositories\School\GAM 220\GAM-220\File IO\File IO.cpp(22,19): warning C4244: '=': conversion from 'size_t' to 'double', possible loss of data
-  File IO.vcxproj -> C:\Users\lasyo\OneDrive\Desktop\Repositories\School\GAM 220\GAM-220\File IO\x64\Debug\File IO.exe
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(1,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(1,5): error C2146: syntax error: missing ';' before identifier 'Project'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(11,12): error C2143: syntax error: missing ';' before '&&'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(11,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(13,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(13,7): error C2530: 'Peace': references must be initialized
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(13,1): error C2146: syntax error: missing ';' before identifier 'Author'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(13,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(13,14): error C2146: syntax error: missing ';' before identifier 'Leo'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(16,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(15,20): error C2146: syntax error: missing ';' before identifier 'Maude'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(18,21): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(18,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(18,21): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(18,36): error C2014: preprocessor command must start as first nonwhite space
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(19,45): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(19,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(19,45): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(25,1): error C2143: syntax error: missing ';' before '*'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(25,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(25,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(25,11): error C2146: syntax error: missing ';' before identifier 'OF'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(38,15): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(97,15): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(142,17): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(183,16): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(218,16): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(265,15): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(320,17): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(349,17): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(396,16): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(445,15): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(526,18): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(597,18): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(632,20): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(673,20): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(714,19): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(757,21): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(827,11): error C2059: syntax error: 'constant'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(835,1): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(836,37): error C3872: '0x2019': this character is not allowed in an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(838,1): error C3872: '0x2014': this character is not allowed in an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(838,37): error C3872: '0x2014': this character is not allowed in an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(839,46): error C2255: 'friend': not allowed outside of a class definition
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(840,1): error C3873: '0x2018': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(840,19): error C3873: '0x2019': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(841,17): error C3872: '0x2014': this character is not allowed in an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(841,57): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(848,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(848,24): error C2146: syntax error: missing ';' before identifier 'being'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(854,1): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(854,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(854,7): error C2146: syntax error: missing ';' before identifier 'you'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(856,58): error C3873: '0x2014': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(857,10): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(859,1): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(859,36): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(869,1): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(869,23): error C2255: 'friend': not allowed outside of a class definition
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(869,61): error C3872: '0x2019': this character is not allowed in an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(870,14): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(874,1): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(875,35): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(875,60): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(876,35): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(878,1): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(878,32): error C3872: '0x2019': this character is not allowed in an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(879,33): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(879,54): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(880,32): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(882,1): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(882,14): error C3872: '0x2019': this character is not allowed in an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(883,50): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(885,1): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(886,14): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(889,1): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(889,1): error C3872: '0x2019': this character is not allowed in an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(889,57): error C3872: '0x2019': this character is not allowed in an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(890,31): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(892,1): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(892,30): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(893,7): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(894,63): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(910,1): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(910,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(910,8): error C3872: '0x2019': this character is not allowed in an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(910,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(910,16): error C2146: syntax error: missing ';' before identifier 'speak'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(910,50): error C3872: '0x2019': this character is not allowed in an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(920,51): error C3872: '0x2019': this character is not allowed in an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(928,51): error C3872: '0x2019': this character is not allowed in an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(931,52): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(935,1): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(935,12): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(935,46): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(937,4): error C3872: '0x2019': this character is not allowed in an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(938,14): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(940,1): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(940,27): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(940,63): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(945,40): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(947,1): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(947,38): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(947,59): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(948,9): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(950,22): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(952,29): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(962,1): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(963,8): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(965,32): error C3872: '0x2019': this character is not allowed in an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(969,10): error C3872: '0x2019': this character is not allowed in an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(977,1): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(977,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(977,8): error C2146: syntax error: missing ';' before identifier 'about'
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(979,11): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\lasyo\Desktop\Repos\School\GAM-220\File IO\War&Peace.txt(979,11): fatal  error C1003: error count exceeds 100; stopping compilation
